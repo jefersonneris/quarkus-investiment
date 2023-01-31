@@ -1,0 +1,7 @@
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/dto/CurrencyPriceDTO.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/dto/USDBRL.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/dto/CryptoPriceDTO.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/resource/CurrencyResource.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/client/PriceClient.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/GreetingResource.java
+/home/jneris/Documentos/Projetos/quarkus-investiment/src/main/java/org/acme/client/CryptoPriceClient.java

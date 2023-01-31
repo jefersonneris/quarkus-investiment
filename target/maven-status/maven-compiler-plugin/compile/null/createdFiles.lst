@@ -1,0 +1,6 @@
+org/acme/resource/CurrencyResource.class
+org/acme/dto/USDBRL.class
+org/acme/client/CryptoPriceClient.class
+org/acme/client/PriceClient.class
+org/acme/dto/CryptoPriceDTO.class
+org/acme/dto/CurrencyPriceDTO.class
